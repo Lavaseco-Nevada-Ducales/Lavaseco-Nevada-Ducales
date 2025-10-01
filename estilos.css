@@ -35,14 +35,14 @@ button{
     font-style: oblique;
     padding: 8px 8px;
     border-radius: 10px;
-    border: 3px solid rgba(225, 0, 255);
-    box-shadow: 1px 1px 6px rgba(225, 0, 255);
+    border: 3px solid rgb(24, 8, 246);
+    box-shadow: 1px 1px 6px rgb(48, 24, 125);
     color:black;
-    background-color: plum;
+    background-color: rgb(95, 56, 195);
 }
 
 button:hover{
-    background-color: rgb(179, 54, 195);
+    background-color: rgb(89, 38, 170);
 }
 
 .conteiner{
